@@ -1,14 +1,13 @@
 <img src="website/static/img/logo.png" alt="logo" width="15%" />
 
-# Infer ![build](https://github.com/facebook/infer/actions/workflows/install.yml/badge.svg) ![website](https://github.com/facebook/infer/actions/workflows/deploy.yml/badge.svg)
+# Infer Binaries for Apple Silicon ![build](https://github.com/facebook/infer/actions/workflows/install.yml/badge.svg) ![website](https://github.com/facebook/infer/actions/workflows/deploy.yml/badge.svg)
 
 [Infer](http://fbinfer.com/) is a static analysis tool for Java,
 C++, Objective-C, and C. Infer is written in [OCaml](https://ocaml.org/).
 
 ## Installation
 
-Read our [Getting
-Started](http://fbinfer.com/docs/getting-started) page for
+Visit the [Releases](https://github.com/mhashim6/infer/releases/tag/v1.1.0) page for
 details on how to install packaged versions of Infer. To build Infer
 from source, see [INSTALL.md](./INSTALL.md).
 
